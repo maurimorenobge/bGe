@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about technology and love to contri
 - 💼 Currently working as a Software Engineer at BGE
 - 🌱 I’m currently learning more about AI and Machine Learning
 - 💬 Ask me about web development, Python, and AI
-- 📫 How to reach me: mauriciomorenobge@example.com
+- 📫 How to reach me: mauriciomorenobge@gmail.com
 
 ## 🛠️ Technologies & Tools
 
