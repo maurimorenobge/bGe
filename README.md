@@ -1,4 +1,4 @@
-# BGE
+# bge
 # 👋 Hi, I'm Mauri Moreno
 
 Welcome to my GitHub profile! I'm passionate about technology and love to contribute to open-source projects. Here's a bit about me:
